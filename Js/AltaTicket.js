@@ -125,7 +125,7 @@ document.getElementById('goToComprasBtn').addEventListener('click', function() {
     localStorage.setItem('listaDetalles', JSON.stringify(listaDetalles));
     localStorage.setItem('listaDetallesTabla', JSON.stringify(listDetallesTabala));
 
-    window.location.href = "Compra.html";
+    window.location.href = "https://jonaspastor.github.io/Cine-Front-Compra/";
     
 });
 
